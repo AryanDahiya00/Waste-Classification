@@ -1,4 +1,5 @@
 # Design and Development of a Waste Classification Model Based on Machine Learning
+![alt text](https://github.com/AryanDahiya00/Waste-Classification/blob/main/Capture1.JPG)
 
 ## Introduction
 
@@ -86,7 +87,7 @@ The key innovation lies in the adaptability of the model, transitioning from the
 16. **TensorFlow Image Preprocessing**: Image conversion and loading
 
 ## Result Analysis
-
+![alt text](https://github.com/AryanDahiya00/Waste-Classification/blob/main/Capture2.JPG)
 The project compared the performance of VGG16 and Inception architectures. While specific results were not provided in the document, it was implied that the Inception architecture showed improved performance in waste classification tasks.
 
 ## Difficulties Faced
